@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheMovieApp</string>
+    <string name="movies">Movies</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="summary">summary</string>
+    <string name="summaryCapital">Summary</string>
+    <string name="the_hateful_eight">The Hateful Eight</string>
+    <string name="book_now">Book Now</string>
+    <string name="sample_text_runtime">R | 3h 7min | 30 Dec 2015</string>
+    <string name="sample_genre_one">CRIME</string>
+    <string name="sample_genre_two">MYSTERY</string>
+    <string name="n_a">N/A</string>
+    <string name="sample_language">Reviews: 10 (Critics) | 2345 (User)</string>
+</resources>
